@@ -1,7 +1,7 @@
 <h1 align="center">Pratyay Das</h1>
 
 <p align="center">
-Computer Vision • RL • Robotics @ IIT Delhi
+Computer Vision • Reinforcement Learning • Robotics @ IIT Delhi
 </p>
 
 <p align="center">
