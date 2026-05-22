@@ -8,7 +8,7 @@ Computer Vision • Reinforcement Learning • Robotics @ IIT Delhi
 Building perception-driven autonomous systems with computer vision, reinforcement learning, and robotics.
 </p>
 
----
+
 
 # 💫 About Me
 
@@ -20,34 +20,34 @@ Building perception-driven autonomous systems with computer vision, reinforcemen
 
 🎓 **M.Tech in Robotics**, Indian Institute of Technology (IIT) Delhi
 
----
+
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 Python • C++ • C
 
----
+
 
 ### 🧠 Computer Vision
 OpenCV • torchvision • Detection & Segmentation
 
----
+
 
 ### 🤖 AI / ML
 PyTorch • TensorFlow • Reinforcement Learning
 
----
+
 
 ### 🚀 Robotics & Simulation
 ROS • Webots • AirSim • Gymnasium • Gazebo • PyBullet
 
----
+
 
 ### 📡 Embedded Systems
 Jetson Nano • ESP32 • Raspberry Pi • Arduino
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -63,7 +63,7 @@ Perception and localization pipeline using ROS and embedded vision systems.
 ### 🔹 RL Visual Object Tracking
 Reinforcement learning based object tracking using visual and spatial features.
 
----
+
 
 ## 🌱 Currently Exploring
 
