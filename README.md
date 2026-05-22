@@ -10,51 +10,62 @@ Building perception-driven autonomous systems with computer vision, reinforcemen
 
 ---
 
-## About
+# 💫 About Me
 
-- M.Tech Robotics @ IIT Delhi
-- Interested in computer vision, perception, and autonomous systems
-- Working on reinforcement learning for robotic decision making
-- Exploring edge AI, Webots simulation, and multi-agent robotics
+✨ Planning and strategizing is as important as execution.
+
+🤖 I am a passionate engineer who enjoys building intelligent systems by blending **robotics, AI, and real-world problem solving**. My interests lie in **computer vision, perception, reinforcement learning, and autonomous systems**, where software meets hardware to create impact.
+
+🚀 Currently exploring opportunities in **intelligent robotics and automation** to develop scalable, real-world applications.
+
+🎓 **M.Tech in Robotics**, Indian Institute of Technology (IIT) Delhi
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 Python • C++ • C
 
-### Computer Vision
+---
+
+### 🧠 Computer Vision
 OpenCV • torchvision • Detection & Segmentation
 
-### AI / ML
+---
+
+### 🤖 AI / ML
 PyTorch • TensorFlow • Reinforcement Learning
 
-### Robotics & Simulation
+---
+
+### 🚀 Robotics & Simulation
 ROS • Webots • AirSim • Gymnasium • Gazebo • PyBullet
 
-### Embedded Systems
+---
+
+### 📡 Embedded Systems
 Jetson Nano • ESP32 • Raspberry Pi • Arduino
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### UAV Multi-Agent RL
+### 🔹 UAV Multi-Agent RL
 Multi-agent reinforcement learning framework for autonomous UAV coordination and routing.
 
-### Edge Defect Detection
+### 🔹 Edge Defect Detection
 Real-time computer vision pipeline optimized for edge deployment under hardware constraints.
 
-### Autonomous Basketball Robot
+### 🔹 Autonomous Basketball Robot
 Perception and localization pipeline using ROS and embedded vision systems.
 
-### RL Visual Object Tracking
+### 🔹 RL Visual Object Tracking
 Reinforcement learning based object tracking using visual and spatial features.
 
 ---
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
 - Robotics perception
 - Multi-agent reinforcement learning
